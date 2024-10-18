@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WebTech_Assignment/static/css/main.a799a0c2.css",
+    "main.js": "/WebTech_Assignment/static/js/main.2bb2359e.js",
+    "static/js/453.21149bca.chunk.js": "/WebTech_Assignment/static/js/453.21149bca.chunk.js",
+    "static/media/navya.png": "/WebTech_Assignment/static/media/navya.78ad66d7492377ba7405.png",
+    "static/media/varsith.png": "/WebTech_Assignment/static/media/varsith.3ddf79e39d5e5bd15e16.png",
+    "static/media/matthew.png": "/WebTech_Assignment/static/media/matthew.343332788ef387b69f8e.png",
+    "static/media/Sagar.png": "/WebTech_Assignment/static/media/Sagar.55377133d411dfa84fb1.png",
+    "static/media/placeholder-person-square.png": "/WebTech_Assignment/static/media/placeholder-person-square.6fd345a0a7188dbcc277.png",
+    "index.html": "/WebTech_Assignment/index.html",
+    "main.a799a0c2.css.map": "/WebTech_Assignment/static/css/main.a799a0c2.css.map",
+    "main.2bb2359e.js.map": "/WebTech_Assignment/static/js/main.2bb2359e.js.map",
+    "453.21149bca.chunk.js.map": "/WebTech_Assignment/static/js/453.21149bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a799a0c2.css",
+    "static/js/main.2bb2359e.js"
+  ]
+}
